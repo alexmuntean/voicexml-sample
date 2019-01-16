@@ -6,10 +6,10 @@
     <var name="id" expr="telephone.id"/>
     <var name="param" expr="telephone.param"/>
     <prompt>
-    Welcome.  You are on the Voximal IVR.
-    Your caller number is : <value expr="caller"/>.
+    Welcome IBM newbies.  I managed to do this application for Angelo, Bogdan, Albert, Claudiu and rest of nonbelievers.
+    Your number is : <value expr="caller"/>.
     You are calling the : <value expr="called"/>.
-    Goodbye
+    Goodbye motherfuckers!
     </prompt>
   </block>
  </form>
